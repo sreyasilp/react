@@ -13,7 +13,7 @@ export const Main = () => {
       <AlternateServices />
       <Project />
       <Features />
-      <Blog />
+      {/* <Blog /> */}
     </main>
   );
 };

@@ -45,7 +45,7 @@ export const HeroBanner = () => {
               backgroundImage: 'url(assets/img/hero-carousel/home1.jpg)',
             }}
           />
-          <div
+          {/* <div
             className='carousel-item'
             style={{
               backgroundImage: 'url(assets/img/hero-carousel/home3.jpg)',
@@ -62,7 +62,7 @@ export const HeroBanner = () => {
             style={{
               backgroundImage: 'url(assets/img/hero-carousel/home5.jpg)',
             }}
-          />
+          /> */}
           <a
             className='carousel-control-prev'
             href='#hero-carousel'

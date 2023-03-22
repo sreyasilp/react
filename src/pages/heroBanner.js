@@ -36,13 +36,13 @@ export const HeroBanner = () => {
           <div
             className='carousel-item active'
             style={{
-              backgroundImage: 'url(assets/img/hero-carousel/home2.jpg)',
+              backgroundImage: 'url(assets/img/resort/vila_rich_night.jpg)',
             }}
           />
           <div
             className='carousel-item'
             style={{
-              backgroundImage: 'url(assets/img/hero-carousel/home1.jpg)',
+              backgroundImage: 'url(assets/img/resort/villa2_night.jpg)',
             }}
           />
           {/* <div

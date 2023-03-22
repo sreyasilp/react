@@ -38,7 +38,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/interior-1.jpg'
+                  src='assets/img/resort/hut1_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -54,7 +54,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/exterior-1.jpg'
+                  src='assets/img/resort/hut3_night.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -82,7 +82,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/bedroom2.jpg'
+                  src='assets/img/resort/hut4_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -98,7 +98,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/interior-2.jpg'
+                  src='assets/img/resort/hut4_night.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -114,7 +114,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/exterior-2.jpg'
+                  src='assets/img/resort/main_villa_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -141,7 +141,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/bedroom1.jpg'
+                  src='assets/img/resort/main_villa_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -157,7 +157,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/interior-3.jpg'
+                  src='assets/img/resort/main_villa_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -173,7 +173,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/exterior.jpg'
+                  src='assets/img/resort/main_villa_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -201,7 +201,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/projects/bedroom3.jpg'
+                  src='assets/img/resort/main_villa_day.jpg'
                   className='img-fluid'
                   alt=''
                 />

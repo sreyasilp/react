@@ -6,7 +6,7 @@ export const AlternateServices = () => {
           <div
             className='col-lg-6 img-bg'
             style={{
-              backgroundImage: 'url(assets/img/alt-services3.jpg)',
+              backgroundImage: 'url(assets/img/resort/paddy_view_board.jpg',
             }}
             data-aos='zoom-in'
             data-aos-delay={100}

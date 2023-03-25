@@ -30,7 +30,7 @@ export const NavHeader = () => {
                   Home
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a href='/about'>About</a>
               </li>
               <li>
@@ -41,8 +41,8 @@ export const NavHeader = () => {
               </li>
               <li>
                 <a href='/blog'>Blog</a>
-              </li>
-              <li class='dropdown'>
+              </li> */}
+              {/* <li class='dropdown'>
                 <a href='/'>
                   <span>Dropdown</span>{' '}
                   <i class='bi bi-chevron-down dropdown-indicator'></i>
@@ -84,7 +84,7 @@ export const NavHeader = () => {
                     <a href='/'>Dropdown 4</a>
                   </li>
                 </ul>
-              </li>
+              </li> */}
               <li>
                 <a href='/contact'>Contact</a>
               </li>

@@ -148,7 +148,7 @@ export const Footer = () => {
               {/* You can delete the links only if you purchased the pro version. */}
               {/* Licensing information: https://bootstrapmade.com/license/ */}
               {/* Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/ */}
-              Designed by <a href='/home'>ZigaTechnologies</a>
+              {/* Designed by <a href='/home'>ZigaTechnologies</a> */}
             </div>
           </div>
         </div>

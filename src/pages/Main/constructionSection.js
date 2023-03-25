@@ -17,7 +17,7 @@ export const Construction = () => {
                   <div
                     className='card-bg'
                     style={{
-                      backgroundImage: 'url(assets/img/resort/pool1.jpg)',
+                      backgroundImage: 'url(assets/img/resort/restaurant_st_night.jpg)',
                     }}
                   />
                 </div>
@@ -45,7 +45,7 @@ export const Construction = () => {
                   <div
                     className='card-bg'
                     style={{
-                      backgroundImage: 'url(assets/img/resort/pool_front.jpg)',
+                      backgroundImage: 'url(assets/img/resort/campfire2.jpg)',
                     }}
                   />
                 </div>
@@ -73,7 +73,7 @@ export const Construction = () => {
                   <div
                     className='card-bg'
                     style={{
-                      backgroundImage: 'url(assets/img/resort/pool_inside.jpg)',
+                      backgroundImage: 'url(assets/img/resort/outside_cheetu_area.jpg)',
                     }}
                   />
                 </div>

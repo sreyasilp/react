@@ -80,7 +80,7 @@ export const Features = () => {
                 data-aos-delay={200}
               >
                 <img
-                  src='assets/img/resort/hut_moon_light1.jpg'
+                  src='assets/img/resort/hut_moonLight2.jpg'
                   alt=''
                   className='img-fluid'
                 />
@@ -119,8 +119,8 @@ export const Features = () => {
                 </ul>
               </div>
               <div className='col-lg-6 order-1 order-lg-2 text-center'>
-                <img
-                  src='assets/img/resort/hut_moonLight2.jpg'
+                <img 
+                  src='assets/img/resort/campfire1.jpg'
                   alt=''
                   className='img-fluid'
                 />
@@ -154,7 +154,7 @@ export const Features = () => {
               </div>
               <div className='col-lg-6 order-1 order-lg-2 text-center'>
                 <img
-                  src='assets/img/resort/restaurant+day.jpg'
+                  src='assets/img/resort/restaurant_night.jpg'
                   alt=''
                   className='img-fluid'
                 />
@@ -189,7 +189,7 @@ export const Features = () => {
               </div>
               <div className='col-lg-6 order-1 order-lg-2 text-center'>
                 <img
-                  src='assets/img/resort/hut4_day.jpg'
+                  src='assets/img/resort/pool_front.jpg'
                   alt=''
                   className='img-fluid'
                 />

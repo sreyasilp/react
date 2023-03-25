@@ -24,8 +24,8 @@ export const Project = () => {
             <li data-filter='*' className='filter-active'>
               All
             </li>
-            <li data-filter='.filter-remodeling'>Interior</li>
-            <li data-filter='.filter-construction'>Exterior</li>
+            <li data-filter='.filter-remodeling'>Day</li>
+            <li data-filter='.filter-construction'>Night</li>
             {/* <li data-filter=".filter-repairs">Repairs</li> */}
             <li data-filter='.filter-design'>Bedroom</li>
           </ul>
@@ -38,12 +38,12 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/hut1_day.jpg'
+                  src='assets/img/resort/costly_villa_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
                 <div className='portfolio-info'>
-                  <h4>Interior 1</h4>
+                  <h4>Day 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                   {/* <a href="assets/img/projects/remodeling-1.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
@@ -54,12 +54,12 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/hut3_night.jpg'
+                  src='assets/img/resort/main_villa_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
                 <div className='portfolio-info'>
-                  <h4>Exterior 1</h4>
+                  <h4>Night 1</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                   {/* <a href="assets/img/projects/construction-1.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
@@ -82,7 +82,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/hut4_day.jpg'
+                  src='assets/img/resort/villa4_day.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -97,13 +97,13 @@ export const Project = () => {
             {/* End Projects Item */}
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
-                <img
-                  src='assets/img/resort/hut4_night.jpg'
+                <img  
+                  src='assets/img/resort/vila_rich_night.jpg'
                   className='img-fluid'
                   alt=''
                 />
                 <div className='portfolio-info'>
-                  <h4>Interior 2</h4>
+                  <h4>Day 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                   {/* <a href="assets/img/projects/remodeling-2.jpg" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
@@ -114,12 +114,12 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/main_villa_day.jpg'
+                  src='assets/img/resort/main_villa_night.jpg'
                   className='img-fluid'
                   alt=''
                 />
                 <div className='portfolio-info'>
-                  <h4>Exterior 2</h4>
+                  <h4>Night 2</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                   {/* <a href="assets/img/projects/construction-2.jpg" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
@@ -141,7 +141,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/main_villa_day.jpg'
+                  src='assets/img/resort/villa2_night.jpg'
                   className='img-fluid'
                   alt=''
                 />
@@ -157,12 +157,12 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/main_villa_day.jpg'
+                  src='assets/img/resort/bed_2.jpg'
                   className='img-fluid'
                   alt=''
                 />
                 <div className='portfolio-info'>
-                  <h4>Interior 3</h4>
+                  <h4>Day 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                   {/* <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
@@ -173,12 +173,12 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/main_villa_day.jpg'
+                  src='assets/img/resort/bed_3.jpg'
                   className='img-fluid'
                   alt=''
                 />
                 <div className='portfolio-info'>
-                  <h4>Exterior 3</h4>
+                  <h4>Night 3</h4>
                   <p>Lorem ipsum, dolor sit amet consectetur</p>
                   {/* <a href="assets/img/projects/construction-3.jpg" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
@@ -201,7 +201,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/main_villa_day.jpg'
+                  src='assets/img/resort/furniture2.jpg'
                   className='img-fluid'
                   alt=''
                 />

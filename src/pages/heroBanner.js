@@ -45,7 +45,7 @@ export const HeroBanner = () => {
               backgroundImage: 'url(assets/img/resort/hut_moonLight2.jpg)',
             }}
           />
-          <div
+          {/* <div
             className='carousel-item'
             style={{
               backgroundImage: 'url(assets/img/resort/hut_night1.jpg)',
@@ -56,7 +56,7 @@ export const HeroBanner = () => {
             style={{
               backgroundImage: 'url(assets/img/resort/hut4_night.jpg)',
             }}
-          />
+          /> */}
           {/* <div
             className='carousel-item'
             style={{

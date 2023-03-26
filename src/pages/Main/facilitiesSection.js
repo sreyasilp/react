@@ -66,17 +66,17 @@ export const Construction = () => {
                   <div
                     className='card-bg'
                     style={{
-                      backgroundImage: 'url(assets/img/resort/outside_cheetu_area.jpg)',
+                      backgroundImage: 'url(assets/img/resort/hut_moonLight2.jpg)',
                     }}
                   />
                 </div>
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      Nature's Nook - Escape to Your Own Private Haven in Wayanad
+                    The Foggy Nest
                     </h4>
                     <p>
-                      Our cozy outdoor huts offer a unique way to experience the beauty of Wayanad's natural surroundings, providing a comfortable and intimate space to unwind, relax, and immerse yourself in the serene ambiance of our resort.
+                      Our cozy outdoor huts offer a unique way to experience the beauty of Wayanad's natural surroundings to unwind, relax, and immerse yourself in the serene ambiance of our resort.
                     </p>
                   </div>
                 </div>

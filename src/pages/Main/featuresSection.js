@@ -39,7 +39,7 @@ export const Features = () => {
               data-bs-toggle='tab'
               data-bs-target='#tab-4'
             >
-              <h4>Swimming Pool</h4>
+              <h4>Pool</h4>
             </a>
           </li>
           {/* End tab nav item */}

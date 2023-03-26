@@ -23,10 +23,10 @@ export const Construction = () => {
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      The Paddy View Kitchen - Where Local Ingredients Meet Global Flavors
+                      The Paddy View Kitchen 
                     </h4>
                     <p>
-                      Our restaurant offers a delicious and diverse menu featuring locally sourced ingredients, where guests can savor a variety of authentic regional dishes as well as international favorites.
+                      Our restaurant offers a delicious and diverse menu featuring locally sourced ingredients, where guests can savor a variety of authentic regional dishes.
                     </p>
                   </div>
                 </div>
@@ -48,10 +48,10 @@ export const Construction = () => {
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      Bonfire Bliss - Cozy up with Loved Ones and Embrace the Serenity of Nature
+                      Bonfire Bliss
                     </h4>
                     <p>
-                      Our guests can enjoy cozy evenings around the campfire, with the mesmerizing view of the starry sky and the warmth of the fire creating the perfect ambiance for storytelling, music, and simply enjoying the serenity of nature.
+                    Cozy up with Loved Ones and Embrace the Serenity of Nature. Our guests can enjoy cozy evenings around the campfire, with the mesmerizing view of the starry sky and the warmth of the fire.
                     </p>
                   </div>
                 </div>
@@ -98,10 +98,10 @@ export const Construction = () => {
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      Infinity Waters - Soak up the Panoramic Views of Wayanad's Rolling Hills
+                      Infinity Waters 
                     </h4>
                     <p>
-                      Nestled amidst lush paddy fields and verdant trees, our infinity swimming pool offers a refreshing escape from the tropical heat, while providing stunning panoramic views of the breathtaking natural beauty of Wayanad.
+                      Nestled amidst lush paddy fields and trees, our swimming pool offers a refreshing escape from the tropical heat, while providing stunning panoramic views of Wayanad.
                     </p>
                   </div>
                 </div>

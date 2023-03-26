@@ -1,8 +1,8 @@
 import { AlternateServices } from './altServicesSection';
 import { Blog } from './blog';
-import { Construction } from './constructionSection';
+import { Construction } from './facilitiesSection';
 import { Features } from './featuresSection';
-import { Project } from './projectSection';
+import { Project } from './gallerySection';
 import { Services } from './servicesSection';
 
 export const Main = () => {

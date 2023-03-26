@@ -11,8 +11,8 @@ export const Main = () => {
       <Construction />
       <Services />
       <AlternateServices />
-      <Project />
       <Features />
+      <Project />
       {/* <Blog /> */}
     </main>
   );

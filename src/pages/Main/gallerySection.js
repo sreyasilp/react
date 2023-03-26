@@ -151,8 +151,107 @@ export const Project = () => {
                 </div>
               </div>
             </div>
+        
+             {/* End Projects Item */}
+             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/restaurant_night.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */} {/* End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/office_ night.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */} {/* End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/restaurant_inside2.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
             {/* End Projects Item */}
-            <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
+            {/* End Projects Item */} {/* End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/hut_night1.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */}{/* End Projects Item */} {/* End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/hut4_night.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */}{/* End Projects Item */} {/* End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/hut_moonLight2.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */}
+                {/* End Projects Item */}
+                <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
                 <img
                   src='assets/img/resort/bed_2.jpg'
@@ -200,6 +299,55 @@ export const Project = () => {
               <div className='portfolio-content h-100'>
                 <img
                   src='assets/img/resort/furniture2.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */}
+             {/* End Projects Item */}
+             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/tv_wall1.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */} {/* End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/tv_wall2.jpg'
+                  className='img-fluid'
+                  alt=''
+                />
+                <div className='portfolio-info'>
+                  <h4>Bedroom 3</h4>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
+                  {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+          <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item */} {/* End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/play_area_night.jpg'
                   className='img-fluid'
                   alt=''
                 />

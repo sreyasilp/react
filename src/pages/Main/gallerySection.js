@@ -42,7 +42,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Day 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/remodeling-1.jpg" title="Remodeling 1" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -58,7 +58,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Night 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/construction-1.jpg" title="Construction 1" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -86,7 +86,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Bedroom 1</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/design-1.jpg" title="Repairs 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -102,7 +102,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Day 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/remodeling-2.jpg" title="Remodeling 2" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -118,7 +118,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Night 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/construction-2.jpg" title="Construction 2" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -145,7 +145,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Bedroom 2</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/design-2.jpg" title="Repairs 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -161,7 +161,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Day 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/remodeling-3.jpg" title="Remodeling 3" data-gallery="portfolio-gallery-remodeling" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -177,7 +177,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Night 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/construction-3.jpg" title="Construction 3" data-gallery="portfolio-gallery-construction" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>
@@ -205,7 +205,7 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Bedroom 3</h4>
-                  <p>Lorem ipsum, dolor sit amet consectetur</p>
+                  {/* <p>Lorem ipsum, dolor sit amet consectetur</p> */}
                   {/* <a href="assets/img/projects/design-3.jpg" title="Repairs 3" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
           <a href="project-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a> */}
                 </div>

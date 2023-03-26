@@ -11,7 +11,7 @@ export const HeroBanner = () => {
                 </h2>
                 <p data-aos='fade-up'>
                 Experience Nature's Blissful Retreat in Wayanad!
-Nestled amidst the verdant hills of Wayanad, Paddy View Resort is a haven of tranquility and serenity, offering guests the perfect escape from the hustle and bustle of everyday life. With luxurious accommodations, breathtaking views, and an array of world-class amenities, we invite you to indulge in the ultimate getaway and discover the true beauty of Wayanad.
+Nestled amidst the paddy fields of Wayanad, Paddy View Resort is a haven of tranquility and serenity, offering guests the perfect escape from the hustle and bustle of everyday life. With luxurious accommodations, breathtaking views.
                 </p>
                 <a
                   data-aos='fade-up'

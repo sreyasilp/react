@@ -19,7 +19,7 @@ export const Features = () => {
               data-bs-toggle='tab'
               data-bs-target='#tab-2'
             >
-              <h4>Praesenti</h4>
+              <h4>Campfire</h4>
             </a>
             {/* End tab nav item */}
           </li>
@@ -29,7 +29,7 @@ export const Features = () => {
               data-bs-toggle='tab'
               data-bs-target='#tab-3'
             >
-              <h4>Explica</h4>
+              <h4>Restaurant</h4>
             </a>
           </li>
           {/* End tab nav item */}
@@ -39,7 +39,7 @@ export const Features = () => {
               data-bs-toggle='tab'
               data-bs-target='#tab-4'
             >
-              <h4>Nostrum</h4>
+              <h4>Swimming Pool</h4>
             </a>
           </li>
           {/* End tab nav item */}

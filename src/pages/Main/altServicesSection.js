@@ -12,84 +12,78 @@ export const AlternateServices = () => {
             data-aos-delay={100}
           />
           <div className='col-lg-5 d-flex flex-column justify-content-center'>
-            <h3>Enim quis est voluptatibus aliquid consequatur fugiat</h3>
+            <h3>Nature's Luxury at Affordable Prices</h3>
             <p>
-              Esse voluptas cumque vel exercitationem. Reiciendis est hic
-              accusamus. Non ipsam et sed minima temporibus laudantium. Soluta
-              voluptate sed facere corporis dolores excepturi
+              Immerse yourself in the natural beauty of Wayanad while enjoying the ultimate in luxury and comfort at our resort, all at affordable prices.
             </p>
             <div
-              className='icon-box d-flex position-relative'
+              className='d-flex position-relative'
               data-aos='fade-up'
               data-aos-delay={100}
             >
-              <i className='bi bi-easel flex-shrink-0' />
+              <i className='flex-shrink-0' />
               <div>
                 <h4>
-                  <a href className='stretched-link'>
-                    Lorem Ipsum
-                  </a>
+                  {/* <a href className='stretched-link'> */}
+                  Affordability
+                  {/* </a> */}
                 </h4>
                 <p>
-                  Voluptatum deleniti atque corrupti quos dolores et quas
-                  molestias excepturi sint occaecati cupiditate non provident
+                Our resort offers luxurious amenities and accommodations at affordable prices, ensuring that every guest can enjoy the experience.
                 </p>
               </div>
             </div>
             {/* End Icon Box */}
             <div
-              className='icon-box d-flex position-relative'
+              className='d-flex position-relative'
               data-aos='fade-up'
               data-aos-delay={200}
             >
-              <i className='bi bi-patch-check flex-shrink-0' />
+              <i className=' flex-shrink-0' />
               <div>
                 <h4>
-                  <a href className='stretched-link'>
-                    Nemo Enim
-                  </a>
+                  {/* <a href className='stretched-link'> */}
+                  Luxury
+                  {/* </a> */}
                 </h4>
                 <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui
-                  blanditiis praesentium voluptatum deleniti atque
+                Each of our accommodations, from rooms to villas, is designed to provide the ultimate in comfort and sophistication, with exquisite decor and attentive service to make your stay truly unforgettable.
                 </p>
               </div>
             </div>
             {/* End Icon Box */}
             <div
-              className='icon-box d-flex position-relative'
+              className='d-flex position-relative'
               data-aos='fade-up'
               data-aos-delay={300}
             >
-              <i className='bi bi-brightness-high flex-shrink-0' />
+              <i className=' flex-shrink-0' />
               <div>
                 <h4>
-                  <a href className='stretched-link'>
-                    Dine Pad
-                  </a>
+                  {/* <a href className='stretched-link'> */}
+                  Ambience
+                  {/* </a> */}
                 </h4>
                 <p>
-                  Explicabo est voluptatum asperiores consequatur magnam. Et
-                  veritatis odit. Sunt aut deserunt minus aut eligendi omnis
+                Our resort is designed to create a relaxed and peaceful atmosphere, with lush greenery, serene water features, and beautiful decor that blends seamlessly with the natural surroundings.
                 </p>
               </div>
             </div>
             {/* End Icon Box */}
             <div
-              className='icon-box d-flex position-relative'
+              className='d-flex position-relative'
               data-aos='fade-up'
               data-aos-delay={400}
             >
-              <i className='bi bi-brightness-high flex-shrink-0' />
+              <i className='flex-shrink-0' />
               <div>
                 <h4>
-                  <a href className='stretched-link'>
-                    Tride clov
-                  </a>
+                  {/* <a href className='stretched-link'> */}
+                  Nature
+                  {/* </a> */}
                 </h4>
                 <p>
-                  Est voluptatem labore deleniti quis a delectus et. Saepe
-                  dolorem libero sit non aspernatur odit amet. Et eligendi
+                Our resort is situated amidst stunning natural beauty, with breathtaking views of the surrounding hills, forests, and paddy fields, offering a truly unforgettable experience for nature lovers.
                 </p>
               </div>
             </div>

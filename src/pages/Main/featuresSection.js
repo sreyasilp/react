@@ -52,24 +52,20 @@ export const Features = () => {
                 data-aos='fade-up'
                 data-aos-delay={100}
               >
-                <h3>The Retreat - Find Peace and Serenity in Wayanad's Lush Surroundings</h3>
+                <h3>Paddy Vista - Cozy Huts with Spectacular Views in Wayanad.</h3>
                 <p className='fst-italic'>
-                Our cozy huts offer a unique opportunity to experience the cool mountain breeze and occasional fog of Wayanad, while providing breathtaking views of the surrounding hills and valleys that are sure to leave you spellbound.
+                  Our cozy huts offer a unique opportunity to experience the cool mountain breeze and occasional fog of Wayanad, while providing breathtaking views of the surrounding paddy fields that are sure to leave you spellbound.
                 </p>
                 <ul>
                   <li>
-                    <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
+                    <i className='bi bi-check2-all' /> Our cozy huts offer stunning panoramic views of Wayanad's lush landscapes.
                   </li>
                   <li>
-                    <i className='bi bi-check2-all' /> Duis aute irure dolor in
-                    reprehenderit in voluptate velit.
+                    <i className='bi bi-check2-all' />  Stay close to nature and unwind in the tranquil ambiance of our charming huts.
+
                   </li>
                   <li>
-                    <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate trideta storacalaperda mastiro
-                    dolore eu fugiat nulla pariatur.
+                    <i className='bi bi-check2-all' /> Enjoy the beauty of Wayanad even at night, as our huts offer the opportunity to bask in the moonlight.
                   </li>
                 </ul>
               </div>
@@ -90,35 +86,30 @@ export const Features = () => {
           <div className='tab-pane' id='tab-2'>
             <div className='row'>
               <div className='col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center'>
-                <h3>Neque exercitationem debitis</h3>
+                <h3>Night Under the Stars - Enjoy a Cozy Campfire in Wayanad's Natural Beauty</h3>
                 <p className='fst-italic'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Gather around the cozy campfire at Paddy View Resort, where you can relax, connect with friends and family, and take in the natural beauty of Wayanad.
                 </p>
                 <ul>
                   <li>
-                    <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
+                    <i className='bi bi-check2-all' /> Our campfire is the perfect place to make memories with loved ones, telling stories and sharing laughs as you cozy up by the fire
                   </li>
                   <li>
-                    <i className='bi bi-check2-all' /> Duis aute irure dolor in
-                    reprehenderit in voluptate velit.
+                    <i className='bi bi-check2-all' /> Immerse yourself in Wayanad's serene atmosphere, as you gather around the campfire and take in the stunning night sky and peaceful surroundings.
                   </li>
                   <li>
-                    <i className='bi bi-check2-all' /> Provident mollitia neque
-                    rerum asperiores dolores quos qui a. Ipsum neque dolor
-                    voluptate nisi sed.
+                    <i className='bi bi-check2-all' /> The campfire offers a tranquil ambiance, where you can sit back and unwind after a day of exploring Wayanad's natural beauty, savoring the warmth and comfort of the fire.
                   </li>
-                  <li>
+                  {/* <li>
                     <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
                     aliquip ex ea commodo consequat. Duis aute irure dolor in
                     reprehenderit in voluptate trideta storacalaperda mastiro
                     dolore eu fugiat nulla pariatur.
-                  </li>
+                  </li> */}
                 </ul>
               </div>
               <div className='col-lg-6 order-1 order-lg-2 text-center'>
-                <img 
+                <img
                   src='assets/img/resort/campfire1.jpg'
                   alt=''
                   className='img-fluid'
@@ -130,25 +121,20 @@ export const Features = () => {
           <div className='tab-pane' id='tab-3'>
             <div className='row'>
               <div className='col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center'>
-                <h3>Voluptatibus commodi accusamu</h3>
+                <h3>Paddy View Restaurant - Exquisite Flavors and Stunning Views of Wayanad</h3>
                 <ul>
                   <li>
-                    <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
+                    <i className='bi bi-check2-all' /> Our restaurant is known for its exceptional culinary offerings, featuring a range of local and international cuisines that showcase the authentic flavors of Wayanad.
                   </li>
                   <li>
-                    <i className='bi bi-check2-all' /> Duis aute irure dolor in
-                    reprehenderit in voluptate velit.
+                    <i className='bi bi-check2-all' /> Our restaurant offers stunning views of Wayanad's lush greenery and serene landscapes, providing a picturesque backdrop for a memorable dining experience.
                   </li>
-                  <li>
-                    <i className='bi bi-check2-all' /> Provident mollitia neque
-                    rerum asperiores dolores quos qui a. Ipsum neque dolor
-                    voluptate nisi sed.
-                  </li>
+                  {/* <li>
+                    <i className='bi bi-check2-all' /> Enjoy your meal in a warm and inviting atmosphere, where our attentive staff will ensure your dining experience is nothing short of extraordinary.
+                  </li> */}
                 </ul>
                 <p className='fst-italic'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Indulge in the exquisite flavors of Wayanad at our restaurant, where we offer a delectable range of local and international cuisines to satisfy your taste buds.
                 </p>
               </div>
               <div className='col-lg-6 order-1 order-lg-2 text-center'>
@@ -164,25 +150,19 @@ export const Features = () => {
           <div className='tab-pane' id='tab-4'>
             <div className='row'>
               <div className='col-lg-6 order-2 order-lg-1 mt-3 mt-lg-0 d-flex flex-column justify-content-center'>
-                <h3>Omnis fugiat ea explicabo sunt</h3>
+                <h3>Paddy View Oasis - Relax and Rejuvenate in Our Wayanad Swimming Pool</h3>
                 <p className='fst-italic'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Take a dip in our refreshing swimming pool at Paddy View Resort, where you can unwind, cool off and soak up the stunning views of Wayanad.
                 </p>
                 <ul>
                   <li>
-                    <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat.
+                    <i className='bi bi-check2-all' /> Our swimming pool offers the perfect place to relax and cool off after a day of exploring Wayanad's natural beauty.
                   </li>
                   <li>
-                    <i className='bi bi-check2-all' /> Duis aute irure dolor in
-                    reprehenderit in voluptate velit.
+                    <i className='bi bi-check2-all' />  Immerse yourself in the stunning natural landscapes of Wayanad, as you take a dip in our pool and take in the breathtaking views of the paddy fields and lush greenery.
                   </li>
                   <li>
-                    <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate trideta storacalaperda mastiro
-                    dolore eu fugiat nulla pariatur.
+                    <i className='bi bi-check2-all' /> Our pool offers a range of fun activities  to ensure an enjoyable and memorable experience for everyone.
                   </li>
                 </ul>
               </div>

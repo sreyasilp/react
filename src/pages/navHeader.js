@@ -17,7 +17,7 @@ export const NavHeader = () => {
           <a href='index.html' class='logo d-flex align-items-center'>
             <img src='assets/img/logo.png' alt='' />
             <h1>
-              Wayanad Resort<span>.</span>
+              Paddy View Resort<span>.</span>
             </h1>
           </a>
 

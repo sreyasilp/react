@@ -7,13 +7,11 @@ export const HeroBanner = () => {
             <div className='row justify-content-center'>
               <div className='col-lg-6 text-center'>
                 <h2 data-aos='fade-down'>
-                  Welcome to <span>Wayanad Resort</span>
+                  Welcome to <span>Paddy View Resort</span>
                 </h2>
                 <p data-aos='fade-up'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                  laboris nisi ut aliquip ex ea commodo consequat.
+                Experience Nature's Blissful Retreat in Wayanad!
+Nestled amidst the verdant hills of Wayanad, Paddy View Resort is a haven of tranquility and serenity, offering guests the perfect escape from the hustle and bustle of everyday life. With luxurious accommodations, breathtaking views, and an array of world-class amenities, we invite you to indulge in the ultimate getaway and discover the true beauty of Wayanad.
                 </p>
                 <a
                   data-aos='fade-up'
@@ -21,7 +19,7 @@ export const HeroBanner = () => {
                   href='#get-started'
                   className='btn-get-started'
                 >
-                  Get Started
+                  Contact Us
                 </a>
               </div>
             </div>

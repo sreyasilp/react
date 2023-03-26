@@ -5,8 +5,7 @@ export const Construction = () => {
         <div className='section-header'>
           <h2>Facilities</h2>
           <p>
-            Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam
-            porro nihil id ratione ea sunt quis dolorem dolore earum
+            Our resort offers a range of amenities that cater to both adults and children, including a swimming pool, play area for kids, a restaurant serving local and international cuisine, and cozy huts with stunning views of the surrounding hills and valleys.
           </p>
         </div>
         <div className='row gy-4'>
@@ -24,13 +23,10 @@ export const Construction = () => {
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      Eligendi omnis sunt veritatis.
+                      The Paddy View Kitchen - Where Local Ingredients Meet Global Flavors
                     </h4>
                     <p>
-                      Fuga in dolorum et iste et culpa. Commodi possimus
-                      nesciunt modi voluptatem placeat deleniti adipisci. Cum
-                      delectus doloribus non veritatis. Officia temporibus illo
-                      magnam. Dolor eos et.
+                      Our restaurant offers a delicious and diverse menu featuring locally sourced ingredients, where guests can savor a variety of authentic regional dishes as well as international favorites.
                     </p>
                   </div>
                 </div>
@@ -52,13 +48,10 @@ export const Construction = () => {
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      Possimus ut sed velit assumenda
+                      Bonfire Bliss - Cozy up with Loved Ones and Embrace the Serenity of Nature
                     </h4>
                     <p>
-                      Sunt deserunt maiores voluptatem autem est rerum
-                      perferendis rerum blanditiis. Est laboriosam qui iste
-                      numquam laboriosam voluptatem architecto. Est laudantium
-                      sunt at quas aut hic. Eum dignissimos.
+                      Our guests can enjoy cozy evenings around the campfire, with the mesmerizing view of the starry sky and the warmth of the fire creating the perfect ambiance for storytelling, music, and simply enjoying the serenity of nature.
                     </p>
                   </div>
                 </div>
@@ -80,13 +73,10 @@ export const Construction = () => {
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      Error beatae dolor inventore aut
+                      Nature's Nook - Escape to Your Own Private Haven in Wayanad
                     </h4>
                     <p>
-                      Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim
-                      molestiae facilis numquam quae quaerat ipsam omnis. Neque
-                      debitis ipsum at architecto officia laboriosam odit. Ut
-                      sunt temporibus nulla culpa.
+                      Our cozy outdoor huts offer a unique way to experience the beauty of Wayanad's natural surroundings, providing a comfortable and intimate space to unwind, relax, and immerse yourself in the serene ambiance of our resort.
                     </p>
                   </div>
                 </div>
@@ -108,13 +98,10 @@ export const Construction = () => {
                 <div className='col-xl-7 d-flex align-items-center'>
                   <div className='card-body'>
                     <h4 className='card-title'>
-                      Expedita voluptas ut ut nesciunt
+                      Infinity Waters - Soak up the Panoramic Views of Wayanad's Rolling Hills
                     </h4>
                     <p>
-                      Aut est quidem doloremque voluptatem magnam quis excepturi
-                      vero quia. Eum eos doloremque architecto illo at beatae
-                      dolore. Fugiat suscipit et sint ratione dolores. Aut
-                      aliquid ea dolores libero nobis.
+                      Nestled amidst lush paddy fields and verdant trees, our infinity swimming pool offers a refreshing escape from the tropical heat, while providing stunning panoramic views of the breathtaking natural beauty of Wayanad.
                     </p>
                   </div>
                 </div>

@@ -188,7 +188,7 @@ export const Features = () => {
               </div>
               <div className='col-lg-6 order-1 order-lg-2 text-center'>
                 <img
-                  src='assets/img/resort/pool_front.jpg'
+                  src='assets/img/resort/pool_wide_new.jpg'
                   alt=''
                   className='img-fluid'
                 />

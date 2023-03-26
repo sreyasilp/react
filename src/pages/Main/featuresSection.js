@@ -9,7 +9,7 @@ export const Features = () => {
               data-bs-toggle='tab'
               data-bs-target='#tab-1'
             >
-              <h4>Modisit</h4>
+              <h4>Hut</h4>
             </a>
           </li>
           {/* End tab nav item */}
@@ -52,10 +52,9 @@ export const Features = () => {
                 data-aos='fade-up'
                 data-aos-delay={100}
               >
-                <h3>Voluptatem dignissimos provident</h3>
+                <h3>The Retreat - Find Peace and Serenity in Wayanad's Lush Surroundings</h3>
                 <p className='fst-italic'>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                Our cozy huts offer a unique opportunity to experience the cool mountain breeze and occasional fog of Wayanad, while providing breathtaking views of the surrounding hills and valleys that are sure to leave you spellbound.
                 </p>
                 <ul>
                   <li>

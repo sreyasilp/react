@@ -5,9 +5,7 @@ export const Project = () => {
         <div className='section-header'>
           <h2>Gallery</h2>
           <p>
-            Consequatur libero assumenda est voluptatem est quidem illum et
-            officia imilique qui vel architecto accusamus fugit aut qui
-            distinctio
+            Explore our gallery and get a glimpse of the stunning natural beauty, world-class amenities, and warm hospitality that await you at Paddy View Resort
           </p>
         </div>
         <div
@@ -97,7 +95,7 @@ export const Project = () => {
             {/* End Projects Item */}
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
-                <img  
+                <img
                   src='assets/img/resort/vila_rich_night.jpg'
                   className='img-fluid'
                   alt=''

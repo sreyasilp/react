@@ -7,7 +7,7 @@ export const Footer = () => {
             <div className='row'>
               <div className='col-lg-4 col-md-6'>
                 <div className='footer-info'>
-                  <h3>Wayanad Resort</h3>
+                  <h3>Paddy View Resort</h3>
                   <p>
                     A108 Adam Street <br />
                     KL 678004, In
@@ -110,7 +110,7 @@ export const Footer = () => {
                 </ul>
               </div>
               {/* End footer links column*/}
-              <div className='col-lg-2 col-md-3 footer-links'>
+              {/* <div className='col-lg-2 col-md-3 footer-links'>
                 <h4>Nobis illum</h4>
                 <ul>
                   <li>
@@ -129,7 +129,7 @@ export const Footer = () => {
                     <a href='/home'>Flexo</a>
                   </li>
                 </ul>
-              </div>
+              </div> */}
               {/* End footer links column*/}
             </div>
           </div>
@@ -139,7 +139,7 @@ export const Footer = () => {
             <div className='copyright'>
               © Copyright{' '}
               <strong>
-                <span>Wayanad Resort</span>
+                <span>Paddy View Resort</span>
               </strong>
               . All Rights Reserved
             </div>

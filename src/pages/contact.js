@@ -219,7 +219,7 @@ export const ContactUs = () => {
         <div className='footer-content position-relative'>
           <div className='container'>
             <div className='row'>
-              <div className='col-lg-4 col-md-6'>
+              <div className='col-lg-9 col-md-6'>
                 <div className='footer-info'>
                   <h3>Paddy View Resort</h3>
                   <p>
@@ -261,7 +261,7 @@ export const ContactUs = () => {
                 </div>
               </div>
               {/* End footer info column*/}
-              <div className='col-lg-8 col-md-3 footer-links'>
+              <div className='col-lg-2 col-md-3 footer-links'>
                 <h4>Useful Links</h4>
                 <ul>
                   <li>

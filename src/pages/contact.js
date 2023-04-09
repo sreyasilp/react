@@ -15,7 +15,7 @@ export const ContactUs = () => {
               {/* <!-- Uncomment the line below if you also wish to use an image logo -->
       <!-- <img src="assets/img/logo.png" alt=""> --> */}
               <h1>
-                UpConstruction<span>.</span>
+                Paddy View Resort
               </h1>
             </a>
 
@@ -29,7 +29,7 @@ export const ContactUs = () => {
                 <li>
                   <a href='/'>Home</a>
                 </li>
-                <li>
+                {/* <li>
                   <a href='/about'>About</a>
                 </li>
                 <li>
@@ -38,8 +38,8 @@ export const ContactUs = () => {
 
                 <li>
                   <a href='/blog'>Blog</a>
-                </li>
-                <li class='dropdown'>
+                </li> */}
+                {/* <li class='dropdown'>
                   <a href='/'>
                     <span>Dropdown</span>{' '}
                     <i class='bi bi-chevron-down dropdown-indicator'></i>
@@ -81,12 +81,12 @@ export const ContactUs = () => {
                       <a href='/'>Dropdown 4</a>
                     </li>
                   </ul>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <a href='/contact' class='active'>
                     Contact
                   </a>
-                </li>
+                </li> */}
               </ul>
             </nav>
           </div>
@@ -95,7 +95,7 @@ export const ContactUs = () => {
         <main id='main'>
           <div
             class='breadcrumbs d-flex align-items-center'
-            style={{ backgroundImage: "url('assets/img/breadcrumbs-bg.jpg')" }}
+            style={{ backgroundImage: "url('assets/img/resort/hut_moonLight2.jpg')" }}
           >
             <div
               class='container position-relative d-flex flex-column align-items-center'
@@ -118,23 +118,24 @@ export const ContactUs = () => {
                   <div class='info-item  d-flex flex-column justify-content-center align-items-center'>
                     <i class='bi bi-map'></i>
                     <h3>Our Address</h3>
-                    <p>A108 Adam Street, New York, NY 535022</p>
+                    <p> Vattuvady, Moolankavu,Thoduvatty Road,Sulthan Bathery, Wayanad
+                    KL 673592, In</p>
                   </div>
                 </div>
 
                 <div class='col-lg-3 col-md-6'>
                   <div class='info-item d-flex flex-column justify-content-center align-items-center'>
                     <i class='bi bi-envelope'></i>
-                    <h3>Email Us</h3>
-                    <p>contact@example.com</p>
+                    <h3>Phone 1</h3>
+                    <p>+919961555587</p>
                   </div>
                 </div>
 
                 <div class='col-lg-3 col-md-6'>
                   <div class='info-item  d-flex flex-column justify-content-center align-items-center'>
                     <i class='bi bi-telephone'></i>
-                    <h3>Call Us</h3>
-                    <p>+1 5589 55488 55</p>
+                    <h3>Phone 2</h3>
+                    <p>+919961555586</p>
                   </div>
                 </div>
               </div>
@@ -214,152 +215,158 @@ export const ContactUs = () => {
           </section>
         </main>
 
-        <footer id='footer' class='footer'>
-          <div class='footer-content position-relative'>
-            <div class='container'>
-              <div class='row'>
-                <div class='col-lg-4 col-md-6'>
-                  <div class='footer-info'>
-                    <h3>UpConstruction</h3>
-                    <p>
-                      A108 Adam Street <br />
-                      NY 535022, USA
-                      <br />
-                      <br />
-                      <strong>Phone:</strong> +1 5589 55488 55
-                      <br />
-                      <strong>Email:</strong> info@example.com
-                      <br />
-                    </p>
-                    <div class='social-links d-flex mt-3'>
-                      <a
-                        href='/'
-                        class='d-flex align-items-center justify-content-center'
-                      >
-                        <i class='bi bi-twitter'></i>
-                      </a>
-                      <a
-                        href='/'
-                        class='d-flex align-items-center justify-content-center'
-                      >
-                        <i class='bi bi-facebook'></i>
-                      </a>
-                      <a
-                        href='/'
-                        class='d-flex align-items-center justify-content-center'
-                      >
-                        <i class='bi bi-instagram'></i>
-                      </a>
-                      <a
-                        href='/'
-                        class='d-flex align-items-center justify-content-center'
-                      >
-                        <i class='bi bi-linkedin'></i>
-                      </a>
-                    </div>
+        <footer id='footer' className='footer'>
+        <div className='footer-content position-relative'>
+          <div className='container'>
+            <div className='row'>
+              <div className='col-lg-4 col-md-6'>
+                <div className='footer-info'>
+                  <h3>Paddy View Resort</h3>
+                  <p>
+                    Vattuvady, Moolankavu,Thoduvatty Road,Sulthan Bathery, Wayanad <br />
+                    KL 673592, In
+                    <br />
+                    <br />
+                    <strong>Phone 1:</strong> +919961555587
+                    <br />
+                    <strong>Phone 2:</strong> +919961555586
+                    <br />
+                  </p>
+                  <div className='social-links d-flex mt-3'>
+                    <a
+                      href='/home'
+                      className='d-flex align-items-center justify-content-center'
+                    >
+                      <i className='bi bi-twitter' />
+                    </a>
+                    <a
+                      href='/home'
+                      className='d-flex align-items-center justify-content-center'
+                    >
+                      <i className='bi bi-facebook' />
+                    </a>
+                    <a
+                      href='/home'
+                      className='d-flex align-items-center justify-content-center'
+                    >
+                      <i className='bi bi-instagram' />
+                    </a>
+                    <a
+                      href='/home'
+                      className='d-flex align-items-center justify-content-center'
+                    >
+                      <i className='bi bi-linkedin' />
+                    </a>
                   </div>
                 </div>
-                <div class='col-lg-2 col-md-3 footer-links'>
-                  <h4>Useful Links</h4>
-                  <ul>
-                    <li>
-                      <a href='/'>Home</a>
-                    </li>
-                    <li>
-                      <a href='/about'>About us</a>
-                    </li>
-                    <li>
-                      <a href='/services'>Services</a>
-                    </li>
-                    <li>
-                      <a href='/terms'>Terms of service</a>
-                    </li>
-                    <li>
-                      <a href='/privacy'>Privacy policy</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class='col-lg-2 col-md-3 footer-links'>
-                  <h4>Our Services</h4>
-                  <ul>
-                    <li>
-                      <a href='/'>Web Design</a>
-                    </li>
-                    <li>
-                      <a href='/'>Web Development</a>
-                    </li>
-                    <li>
-                      <a href='/'>Product Management</a>
-                    </li>
-                    <li>
-                      <a href='/'>Marketing</a>
-                    </li>
-                    <li>
-                      <a href='/'>Graphic Design</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class='col-lg-2 col-md-3 footer-links'>
-                  <h4>Hic solutasetp</h4>
-                  <ul>
-                    <li>
-                      <a href='/'>Molestiae accusamus iure</a>
-                    </li>
-                    <li>
-                      <a href='/'>Excepturi dignissimos</a>
-                    </li>
-                    <li>
-                      <a href='/'>Suscipit distinctio</a>
-                    </li>
-                    <li>
-                      <a href='/'>Dilecta</a>
-                    </li>
-                    <li>
-                      <a href='/'>Sit quas consectetur</a>
-                    </li>
-                  </ul>
-                </div>
-
-                <div class='col-lg-2 col-md-3 footer-links'>
-                  <h4>Nobis illum</h4>
-                  <ul>
-                    <li>
-                      <a href='/'>Ipsam</a>
-                    </li>
-                    <li>
-                      <a href='/'>Laudantium dolorum</a>
-                    </li>
-                    <li>
-                      <a href='/'>Dinera</a>
-                    </li>
-                    <li>
-                      <a href='/'>Trodelas</a>
-                    </li>
-                    <li>
-                      <a href='/'>Flexo</a>
-                    </li>
-                  </ul>
-                </div>
               </div>
+              {/* End footer info column*/}
+              <div className='col-lg-8 col-md-3 footer-links'>
+                <h4>Useful Links</h4>
+                <ul>
+                  <li>
+                    <a href='/home'>Home</a>
+                  </li>
+                  <li>
+                    <a href='/contact'>Contact Us</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Services</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Terms of service</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Privacy policy</a>
+                  </li>
+                </ul>
+              </div>
+              {/* End footer links column*/}
+              {/* <div className='col-lg-2 col-md-3 footer-links'>
+                <h4>Our Services</h4>
+                <ul>
+                  <li>
+                    <a href='/home'>Ipsam</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Laudantium dolorum</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Dinera</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Trodelas</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Flexo</a>
+                  </li>
+                </ul>
+              </div> */}
+              {/* End footer links column*/}
+              {/* <div className='col-lg-2 col-md-3 footer-links'>
+                <h4>Hic solutasetp</h4>
+                <ul>
+                  <li>
+                    <a href='/home'>Molestiae accusamus iure</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Excepturi dignissimos</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Suscipit distinctio</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Dilecta</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Sit quas consectetur</a>
+                  </li>
+                </ul>
+              </div> */}
+              {/* End footer links column*/}
+              {/* <div className='col-lg-2 col-md-3 footer-links'>
+                <h4>Nobis illum</h4>
+                <ul>
+                  <li>
+                    <a href='/home'>Ipsam</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Laudantium dolorum</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Dinera</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Trodelas</a>
+                  </li>
+                  <li>
+                    <a href='/home'>Flexo</a>
+                  </li>
+                </ul>
+              </div> */}
+              {/* End footer links column*/}
             </div>
           </div>
-
-          <div class='footer-legal text-center position-relative'>
-            <div class='container'>
-              <div class='copyright'>
-                &copy; Copyright{' '}
-                <strong>
-                  <span>UpConstruction</span>
-                </strong>
-                . All Rights Reserved
-              </div>
-              <div class='credits'></div>
+        </div>
+        <div className='footer-legal text-center position-relative'>
+          <div className='container'>
+            <div className='copyright'>
+              © Copyright{' '}
+              <strong>
+                <span>Paddy View Resort</span>
+              </strong>
+              . All Rights Reserved
+            </div>
+            <div className='credits'>
+              {/* All the links in the footer should remain intact. */}
+              {/* You can delete the links only if you purchased the pro version. */}
+              {/* Licensing information: https://bootstrapmade.com/license/ */}
+              {/* Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/ */}
+              {/* Designed by <a href='/home'>ZigaTechnologies</a> */}
             </div>
           </div>
-        </footer>
-
+        </div>
+      </footer>
         <a
           href='/'
           class='scroll-top d-flex align-items-center justify-content-center'

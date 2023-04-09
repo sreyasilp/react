@@ -9,13 +9,13 @@ export const Footer = () => {
                 <div className='footer-info'>
                   <h3>Paddy View Resort</h3>
                   <p>
-                    A108 Adam Street <br />
-                    KL 678004, In
+                    Vattuvady, Moolankavu,Thoduvatty Road,Sulthan Bathery, Wayanad <br />
+                    KL 673592, In
                     <br />
                     <br />
-                    <strong>Phone:</strong> +919876543210qq
+                    <strong>Phone 1:</strong> +919961555587
                     <br />
-                    <strong>Email:</strong> info@example.com
+                    <strong>Phone 2:</strong> +919961555586
                     <br />
                   </p>
                   <div className='social-links d-flex mt-3'>
@@ -47,14 +47,14 @@ export const Footer = () => {
                 </div>
               </div>
               {/* End footer info column*/}
-              <div className='col-lg-2 col-md-3 footer-links'>
+              <div className='col-lg-8 col-md-3 footer-links'>
                 <h4>Useful Links</h4>
                 <ul>
                   <li>
                     <a href='/home'>Home</a>
                   </li>
                   <li>
-                    <a href='/home'>About us</a>
+                    <a href='/contact'>Contact Us</a>
                   </li>
                   <li>
                     <a href='/home'>Services</a>
@@ -68,7 +68,7 @@ export const Footer = () => {
                 </ul>
               </div>
               {/* End footer links column*/}
-              <div className='col-lg-2 col-md-3 footer-links'>
+              {/* <div className='col-lg-2 col-md-3 footer-links'>
                 <h4>Our Services</h4>
                 <ul>
                   <li>
@@ -87,9 +87,9 @@ export const Footer = () => {
                     <a href='/home'>Flexo</a>
                   </li>
                 </ul>
-              </div>
+              </div> */}
               {/* End footer links column*/}
-              <div className='col-lg-2 col-md-3 footer-links'>
+              {/* <div className='col-lg-2 col-md-3 footer-links'>
                 <h4>Hic solutasetp</h4>
                 <ul>
                   <li>
@@ -108,7 +108,7 @@ export const Footer = () => {
                     <a href='/home'>Sit quas consectetur</a>
                   </li>
                 </ul>
-              </div>
+              </div> */}
               {/* End footer links column*/}
               {/* <div className='col-lg-2 col-md-3 footer-links'>
                 <h4>Nobis illum</h4>

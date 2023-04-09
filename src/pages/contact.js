@@ -125,7 +125,7 @@ export const ContactUs = () => {
 
                 <div class='col-lg-3 col-md-6'>
                   <div class='info-item d-flex flex-column justify-content-center align-items-center'>
-                    <i class='bi bi-envelope'></i>
+                    <i class='bi bi-telephone'></i>
                     <h3>Phone 1</h3>
                     <p>+919961555587</p>
                   </div>

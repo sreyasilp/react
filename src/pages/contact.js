@@ -144,7 +144,7 @@ export const ContactUs = () => {
                 <div class='col-lg-6 '>
                   <iframe
                     title='new'
-                    src='https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621'
+                    src='https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3907.4735937589826!2d76.28694171483039!3d11.660810791725119!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba6076bca318e6b%3A0x716a5d08140cfd6f!2sPaddyview%20resort!5e0!3m2!1sen!2sin!4v1681008120358!5m2!1sen!2sin'
                     frameBorder='0'
                     style={{ border: 0, width: '100%', height: '384px' }}
                     allowFullScreen
@@ -157,7 +157,7 @@ export const ContactUs = () => {
                     method='post'
                     class='php-email-form'
                   >
-                    <div class='row gy-4'>
+                   <div class='row gy-4'>
                       <div class='col-lg-6 form-group'>
                         <input
                           type='text'

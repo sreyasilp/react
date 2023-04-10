@@ -18,7 +18,7 @@ export const Footer = () => {
                     <strong>Phone 2:</strong> +919961555586
                     <br />
                   </p>
-                  <div className='social-links d-flex mt-3'>
+                  {/* <div className='social-links d-flex mt-3'>
                     <a
                       href='/home'
                       className='d-flex align-items-center justify-content-center'
@@ -43,7 +43,7 @@ export const Footer = () => {
                     >
                       <i className='bi bi-linkedin' />
                     </a>
-                  </div>
+                  </div> */}
                 </div>
               </div>
               {/* End footer info column*/}

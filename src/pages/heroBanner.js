@@ -29,7 +29,7 @@ Nestled amidst the paddy fields of Wayanad, Paddy View Resort is a haven of tran
           id='hero-carousel'
           className='carousel slide'
           data-bs-ride='carousel'
-          data-bs-interval={5000}
+          data-bs-interval={2000}
         >
           <div
             className='carousel-item active'

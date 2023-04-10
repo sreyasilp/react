@@ -5,7 +5,7 @@ export const Footer = () => {
         <div className='footer-content position-relative'>
           <div className='container'>
             <div className='row'>
-              <div className='col-lg-9 col-md-6'>
+              <div className='col-lg-8 col-md-6'>
                 <div className='footer-info'>
                   <h3>Paddy View Resort</h3>
                   <p>

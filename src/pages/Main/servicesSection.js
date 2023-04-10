@@ -5,8 +5,7 @@ export const Services = () => {
         <div className='section-header'>
           <h2>Services</h2>
           <p>
-            Voluptatem quibusdam ut ullam perferendis repellat non ut
-            consequuntur est eveniet deleniti fignissimos eos quam
+          At Paddy View Resort, we pride ourselves on providing exceptional services that cater to all your needs and ensure a comfortable and memorable stay.
           </p>
         </div>
         <div className='row gy-4'>
@@ -17,13 +16,11 @@ export const Services = () => {
           >
             <div className='service-item  position-relative'>
               <div className='icon'>
-                <i className='fa-solid fa-mountain-city' />
+                <i className='fa-solid fa-mountain-city   ' />
               </div>
-              <h3>Nesciunt Mete</h3>
+              <h3>Accommodations</h3>
               <p>
-                Provident nihil minus qui consequatur non omnis maiores. Eos
-                accusantium minus dolores iure perferendis tempore et
-                consequatur.
+              Our resort offers a variety of luxurious and affordable accommodations to suit your preferences, from cozy huts to spacious villas with stunning views of the paddy fields.
               </p>
               {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
@@ -38,10 +35,9 @@ export const Services = () => {
               <div className='icon'>
                 <i className='fa-solid fa-arrow-up-from-ground-water' />
               </div>
-              <h3>Eosle Commodi</h3>
+              <h3>Dining</h3>
               <p>
-                Ut autem aut autem non a. Sint sint sit facilis nam iusto sint.
-                Libero corrupti neque eum hic non ut nesciunt dolorem.
+              Our restaurant serves a variety of delicious and healthy dishes made with fresh, local ingredients, catering to all dietary needs and preferences.
               </p>
               {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
@@ -56,10 +52,9 @@ export const Services = () => {
               <div className='icon'>
                 <i className='fa-solid fa-compass-drafting' />
               </div>
-              <h3>Ledo Markt</h3>
+              <h3>Activities</h3>
               <p>
-                Ut excepturi voluptatem nisi sed. Quidem fuga consequatur. Minus
-                ea aut. Vel qui id voluptas adipisci eos earum corrupti.
+              We offer a range of exciting activities to explore the natural beauty and cultural heritage of Wayanad, including birdwatching, village tours, and more.
               </p>
               {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
@@ -74,10 +69,9 @@ export const Services = () => {
               <div className='icon'>
                 <i className='fa-solid fa-trowel-bricks' />
               </div>
-              <h3>Asperiores Commodit</h3>
+              <h3>Relaxation</h3>
               <p>
-                Non et temporibus minus omnis sed dolor esse consequatur.
-                Cupiditate sed error ea fuga sit provident adipisci neque.
+              Our resort provides unique way to experience the beauty of Wayanad's natural surroundings to unwind, relax, and immerse yourself in the serene ambiance of nature.
               </p>
               {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
@@ -92,10 +86,9 @@ export const Services = () => {
               <div className='icon'>
                 <i className='fa-solid fa-helmet-safety' />
               </div>
-              <h3>Velit Doloremque</h3>
+              <h3>Entertainment</h3>
               <p>
-                Cumque et suscipit saepe. Est maiores autem enim facilis ut aut
-                ipsam corporis aut. Sed animi at autem alias eius labore.
+              Our campfire and play area offer a fun and engaging environment for families and friends to bond and enjoy quality time together.
               </p>
               {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
@@ -110,10 +103,9 @@ export const Services = () => {
               <div className='icon'>
                 <i className='fa-solid fa-arrow-up-from-ground-water' />
               </div>
-              <h3>Dolori Architecto</h3>
+              <h3>Hospitality</h3>
               <p>
-                Hic molestias ea quibusdam eos. Fugiat enim doloremque aut neque
-                non et debitis iure. Corrupti recusandae ducimus enim.
+              Our friendly and knowledgeable staff are dedicated to ensuring that you have a comfortable and memorable stay with us, providing excellent service and assistance throughout your visit.
               </p>
               {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>

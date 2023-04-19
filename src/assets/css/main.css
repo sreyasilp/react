@@ -766,6 +766,39 @@ Videos
 }
 
 /*--------------------------------------------------------------
+# videos Section
+--------------------------------------------------------------*/
+.videos .card-item {
+  border: 1px solid rgba(82, 86, 94, 0.2);
+  background: #fff;
+  position: relative;
+  border-radius: 0;
+}
+
+.videos .card-item .card-bg {
+  min-height: 300px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.videos .card-item .card-body {
+  padding: 30px;
+}
+
+.videos .card-item h4 {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 10px;
+  color: var(--color-secondary);
+}
+
+.videos .card-item p {
+  color: var(--color-secondary);
+  margin: 0;
+}
+
+/*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
 .services .service-item {

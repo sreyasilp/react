@@ -12,9 +12,9 @@ export const Videos = () => {
           <div className='col-lg-12' data-aos='fade-up' data-aos-delay={100}>
             <div className='card-item'>
               <div className='row'>
-                <div className='col-xl-12 d-flex align-items-center'>
+                <div className='col-xl-12 align-items-center'>
                   <div className='card-body'>
-                  <iframe width="1120" height="630" src="https://www.youtube.com/embed/txSpq5ftkFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" allowfullscreen></iframe>
+                  <iframe width="560" height="315" src="https://www.youtube.com/embed/txSpq5ftkFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" allowfullscreen></iframe>
                   </div>
                 </div>
               </div>

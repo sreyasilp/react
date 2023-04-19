@@ -43,27 +43,9 @@ Nestled amidst the paddy fields of Wayanad, Paddy View Resort is a haven of tran
               backgroundImage: 'url(assets/img/resort/hut_moonLight2.jpg)',
             }}
           />
-          {/* <div
-            className='carousel-item'
-            style={{
-              backgroundImage: 'url(assets/img/resort/hut_night1.jpg)',
-            }}
-          />
-          <div
-            className='carousel-item'
-            style={{
-              backgroundImage: 'url(assets/img/resort/hut4_night.jpg)',
-            }}
-          /> */}
-          {/* <div
-            className='carousel-item'
-            style={{
-              backgroundImage: 'url(assets/img/hero-carousel/home5.jpg)',
-            }}
-          /> */}
           <a
             className='carousel-control-prev'
-            href='#hero-carousel'
+            href='/'
             role='button'
             data-bs-slide='prev'
           >
@@ -74,7 +56,7 @@ Nestled amidst the paddy fields of Wayanad, Paddy View Resort is a haven of tran
           </a>
           <a
             className='carousel-control-next'
-            href='#hero-carousel'
+            href='/'
             role='button'
             data-bs-slide='next'
           >

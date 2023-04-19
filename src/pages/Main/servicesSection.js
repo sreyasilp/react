@@ -5,7 +5,7 @@ export const Services = () => {
         <div className='section-header'>
           <h2>Services</h2>
           <p>
-          At Paddy View Resort, we pride ourselves on providing exceptional services that cater to all your needs and ensure a comfortable and memorable stay.
+            At Paddy View Resort, we pride ourselves on providing exceptional services that cater to all your needs and ensure a comfortable and memorable stay.
           </p>
         </div>
         <div className='row gy-4'>
@@ -20,12 +20,10 @@ export const Services = () => {
               </div>
               <h3>Accommodations</h3>
               <p>
-              Our resort offers a variety of luxurious and affordable accommodations to suit your preferences, from cozy huts to spacious villas with stunning views of the paddy fields.
+                Our resort offers a variety of luxurious and affordable accommodations to suit your preferences, from cozy huts to spacious villas with stunning views of the paddy fields.
               </p>
-              {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
           </div>
-          {/* End Service Item */}
           <div
             className='col-lg-4 col-md-6'
             data-aos='fade-up'
@@ -37,12 +35,10 @@ export const Services = () => {
               </div>
               <h3>Dining</h3>
               <p>
-              Our restaurant serves a variety of delicious and healthy dishes made with fresh, local ingredients, catering to all dietary needs and preferences.
+                Our restaurant serves a variety of delicious and healthy dishes made with fresh, local ingredients, catering to all dietary needs and preferences.
               </p>
-              {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
           </div>
-          {/* End Service Item */}
           <div
             className='col-lg-4 col-md-6'
             data-aos='fade-up'
@@ -54,12 +50,10 @@ export const Services = () => {
               </div>
               <h3>Activities</h3>
               <p>
-              We offer a range of exciting activities to explore the natural beauty and cultural heritage of Wayanad, including birdwatching, village tours, and more.
+                We offer a range of exciting activities to explore the natural beauty and cultural heritage of Wayanad, including birdwatching, village tours, and more.
               </p>
-              {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
           </div>
-          {/* End Service Item */}
           <div
             className='col-lg-4 col-md-6'
             data-aos='fade-up'
@@ -71,12 +65,11 @@ export const Services = () => {
               </div>
               <h3>Relaxation</h3>
               <p>
-              Our resort provides unique way to experience the beauty of Wayanad's natural surroundings to unwind, relax, and immerse yourself in the serene ambiance of nature.
+                Our resort provides unique way to experience the beauty of Wayanad's natural surroundings to unwind, relax, and immerse yourself in the serene ambiance of nature.
               </p>
-              {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
           </div>
-          {/* End Service Item */}
+
           <div
             className='col-lg-4 col-md-6'
             data-aos='fade-up'
@@ -88,12 +81,10 @@ export const Services = () => {
               </div>
               <h3>Entertainment</h3>
               <p>
-              Our campfire and play area offer a fun and engaging environment for families and friends to bond and enjoy quality time together.
+                Our campfire and play area offer a fun and engaging environment for families and friends to bond and enjoy quality time together.
               </p>
-              {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
           </div>
-          {/* End Service Item */}
           <div
             className='col-lg-4 col-md-6'
             data-aos='fade-up'
@@ -105,12 +96,10 @@ export const Services = () => {
               </div>
               <h3>Hospitality</h3>
               <p>
-              Our friendly and knowledgeable staff are dedicated to ensuring that you have a comfortable and memorable stay with us, providing excellent service and assistance throughout your visit.
+                Our friendly and knowledgeable staff are dedicated to ensuring that you have a comfortable and memorable stay with us, providing excellent service and assistance throughout your visit.
               </p>
-              {/* <a href="service-details.html" class="readmore stretched-link">Learn more <i class="bi bi-arrow-right"></i></a> */}
             </div>
           </div>
-          {/* End Service Item */}
         </div>
       </div>
     </section>

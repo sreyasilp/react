@@ -100,12 +100,6 @@ export const Features = () => {
                   <li>
                     <i className='bi bi-check2-all' /> The campfire offers a tranquil ambiance, where you can sit back and unwind after a day of exploring Wayanad's natural beauty, savoring the warmth and comfort of the fire.
                   </li>
-                  {/* <li>
-                    <i className='bi bi-check2-all' /> Ullamco laboris nisi ut
-                    aliquip ex ea commodo consequat. Duis aute irure dolor in
-                    reprehenderit in voluptate trideta storacalaperda mastiro
-                    dolore eu fugiat nulla pariatur.
-                  </li> */}
                 </ul>
               </div>
               <div className='col-lg-6 order-1 order-lg-2 text-center'>
@@ -129,9 +123,6 @@ export const Features = () => {
                   <li>
                     <i className='bi bi-check2-all' /> Our restaurant offers stunning views of Wayanad's lush greenery and serene landscapes, providing a picturesque backdrop for a memorable dining experience.
                   </li>
-                  {/* <li>
-                    <i className='bi bi-check2-all' /> Enjoy your meal in a warm and inviting atmosphere, where our attentive staff will ensure your dining experience is nothing short of extraordinary.
-                  </li> */}
                 </ul>
                 <p className='fst-italic'>
                   Indulge in the exquisite flavors of Wayanad at our restaurant, where we offer a delectable range of local and international cuisines to satisfy your taste buds.

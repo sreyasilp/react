@@ -17,7 +17,6 @@ export const Videos = () => {
               <div className='row'>
                 <div className='col-xl-12 align-items-center'>
                   {/* <div className='card-body'> */}
-                  {/* <iframe width="560" height="315" src="https://www.youtube.com/embed/txSpq5ftkFo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" allowfullscreen></iframe> */}
                     <VideoIframe videoId={videoId} videoTitle={videoTitle} />
                   {/* </div> */}
                 </div>

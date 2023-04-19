@@ -17,7 +17,7 @@ export const NavHeader = () => {
           <a href='/' class='logo d-flex align-items-center'>
             <img src='assets/img/logo.png' alt='' />
             <h1>
-              Paddy View Resort<span>.</span>
+              Paddy View Resort
             </h1>
           </a>
 

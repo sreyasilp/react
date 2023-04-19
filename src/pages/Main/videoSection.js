@@ -6,7 +6,7 @@ export const Videos = () => {
     <section id='constructions' className='constructions'>
       <div className='container' data-aos='fade-up'>
         <div className='section-header'>
-          <h2>Videos</h2>
+          <h2>Video</h2>
           <p>
           Take a look at this video to know more about Paddy View Resort
           </p>

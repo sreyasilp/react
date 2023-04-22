@@ -9,13 +9,16 @@ export const Footer = () => {
                 <div className='footer-info'>
                   <h3>Paddy View Resort</h3>
                   <p>
-                    Vattuvady, Moolankavu,Thoduvatty Road,Sulthan Bathery, Wayanad <br />
+                    Vattuvady, Moolankavu,Thoduvatty Road,Sulthan Bathery,
+                    Wayanad <br />
                     KL 673592, In
                     <br />
                     <br />
-                    <strong>Phone 1:</strong> +919961555587
+                    <strong>Contact Info</strong>
                     <br />
-                    <strong>Phone 2:</strong> +919961555586
+                    <a href='tel:+919961555587'>+91 9961555587</a>
+                    <br />
+                    <a href='tel:+919961555586'>+91 9961555586</a>
                     <br />
                   </p>
                 </div>
@@ -23,9 +26,6 @@ export const Footer = () => {
               <div className='col-lg-2 col-md-3 footer-links'>
                 <h4>Useful Links</h4>
                 <ul>
-                  <li>
-                    <a href='/'>Home</a>
-                  </li>
                   <li>
                     <a href='/contact'>Contact Us</a>
                   </li>
@@ -46,14 +46,13 @@ export const Footer = () => {
         <div className='footer-legal text-center position-relative'>
           <div className='container'>
             <div className='copyright'>
-            © Copyright{' '}
+              © Copyright{' '}
               <strong>
                 <span>Paddy View Resort</span>
               </strong>
               . All Rights Reserved
             </div>
-            <div className='credits'>
-            </div>
+            <div className='credits'></div>
           </div>
         </div>
       </footer>

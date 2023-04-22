@@ -15,10 +15,11 @@ export const NavHeader = () => {
       <header id='header' class='header d-flex align-items-center'>
         <div class='container-fluid container-xl d-flex align-items-center justify-content-between'>
           <a href='/' class='logo d-flex align-items-center'>
-            <img src='assets/img/logo.png' alt='' />
-            <h1>
-              Paddy View Resort
-            </h1>
+            <img
+              src='assets/img/logo.png'
+              alt='holiday destinations in Wayanad'
+            />
+            <h1>Paddy View Resort</h1>
           </a>
 
           <i class={navHiddenState} onClick={() => showMenu()}></i>

@@ -26,6 +26,7 @@ export const Project = () => {
             </li>
             <li data-filter='.filter-remodeling'>Day</li>
             <li data-filter='.filter-construction'>Night</li>
+            <li data-filter='.filter-construction'>Garden</li>
             <li data-filter='.filter-remodeling'>Pool</li>
             <li data-filter='.filter-design'>Bedroom</li>
           </ul>
@@ -148,6 +149,47 @@ export const Project = () => {
                 />
                 <div className='portfolio-info'>
                   <h4>Day 9</h4>
+                </div>
+              </div>
+            </div>
+
+            <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new11.jpg'
+
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Garden 1</h4>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
+              <div className='portfolio-content h-100'>
+                <img
+                   src='assets/img/new/new10.jpeg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Garden 2</h4>
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item --
+
+    </div> End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new12.jpeg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Garden 3</h4>
                 </div>
               </div>
             </div>

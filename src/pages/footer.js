@@ -16,9 +16,11 @@ export const Footer = () => {
                     <br />
                     <strong>Contact Info</strong>
                     <br />
-                    <a href='tel:+919961555587'>+91 9961555587</a>
+                    <a href='tel:+919961555576'>+91 9961555576</a>
                     <br />
                     <a href='tel:+919961555586'>+91 9961555586</a>
+                    <br />
+                    <a href='tel:+919961555587'>+91 9961555587</a>
                     <br />
                   </p>
                 </div>

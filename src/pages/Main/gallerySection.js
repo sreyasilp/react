@@ -26,6 +26,7 @@ export const Project = () => {
             </li>
             <li data-filter='.filter-remodeling'>Day</li>
             <li data-filter='.filter-construction'>Night</li>
+            <li data-filter='.filter-remodeling'>Pool</li>
             <li data-filter='.filter-design'>Bedroom</li>
           </ul>
           <div
@@ -36,7 +37,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/costly_villa_day.jpg'
+                  src='assets/img/new/new1.jpeg'
                   className='img-fluid'
                   alt='best all inclusive resorts in Wayanad'
                 />
@@ -48,7 +49,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/main_villa_day.jpg'
+                  src='assets/img/new/new2.jpeg'
                   className='img-fluid'
                   alt='best all inclusive resorts in Wayanad'
                 />
@@ -63,7 +64,7 @@ export const Project = () => {
             <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
               <div className='portfolio-content h-100'>
                 <img
-                  src='assets/img/resort/villa4_day.jpg'
+                  src='assets/img/new/new3.jpeg'
                   className='img-fluid'
                   alt='best all inclusive resorts in Wayanad'
                 />
@@ -72,6 +73,126 @@ export const Project = () => {
                 </div>
               </div>
             </div>
+            <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new7.jpeg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Day 4</h4>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new8.jpeg'
+
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Day 5</h4>
+                </div>
+              </div>
+            </div>
+
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new9.jpg'
+
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Day 6</h4>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/costly_villa_day.jpg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Day 7</h4>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/main_villa_day.jpg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Day 8</h4>
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item --
+
+    </div> End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/resort/villa4_day.jpg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Day 9</h4>
+                </div>
+              </div>
+            </div>
+
+            <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new4.jpeg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Pool 1</h4>
+                </div>
+              </div>
+            </div>
+            <div className='col-lg-4 col-md-6 portfolio-item filter-construction'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new5.jpeg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Pool 2</h4>
+                </div>
+              </div>
+            </div>
+            {/* End Projects Item --
+
+    </div> End Projects Item */}
+            <div className='col-lg-4 col-md-6 portfolio-item filter-design'>
+              <div className='portfolio-content h-100'>
+                <img
+                  src='assets/img/new/new6.jpeg'
+                  className='img-fluid'
+                  alt='best all inclusive resorts in Wayanad'
+                />
+                <div className='portfolio-info'>
+                  <h4>Pool 3</h4>
+                </div>
+              </div>
+            </div>
+
+
             {/* End Projects Item */}
             <div className='col-lg-4 col-md-6 portfolio-item filter-remodeling'>
               <div className='portfolio-content h-100'>

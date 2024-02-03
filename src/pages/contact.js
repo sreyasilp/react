@@ -75,7 +75,7 @@ export const ContactUs = () => {
                   <div class='info-item  d-flex flex-column justify-content-center align-items-center'>
                     <i class='bi bi-telephone'></i>
                     <h3>Phone 2</h3>
-                    <p>+919961555586</p>
+                    <p>+919846849935</p>
                   </div>
                 </div>
               </div>
